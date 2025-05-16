@@ -1,18 +1,18 @@
-# 🚀 Data Navigator | BI Analyst in the Making
+# 🚀 Data Scientist | Python Analyst
 
 ## 👋 Olá! Eu sou Gabriel Florêncio
 
 🎓 Análise e Desenvolvimento de Sistemas  
 📊 Analista de Dados em construção | Desenvolvedor RPA  
-🥋 Artista marcial (Muay Thai e Jiu-Jitsu) disciplinado  
-🎮 Criador de conteúdo no canal **GaabsGO** (games e humor)  
-📍 Fortaleza – CE | 🇧🇷
+🥋 Artista marcial de Muay Thai e Jiu-Jitsu  
+🎮 Criador de conteúdo no canal **GaabsGO** (Games e humor)  
+📍 Fortaleza – CE |BR
 
 ---
 
 ## 🧠 Sobre Mim
 
-Tecnólogo por paixão, artista marcial por disciplina e consumidor compulsivo de cultura geek — dos mangás às inovações em BI.  
+Tecnólogo por paixão, artista marcial por disciplina e consumidor da cultura Geek, dos mangás às inovações em Business Intelligence.  
 Minha mente analítica se alimenta de dados, mas meu diferencial está em **traduzir números em narrativas impactantes**.
 
 ---
