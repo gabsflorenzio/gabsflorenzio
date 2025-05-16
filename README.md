@@ -34,7 +34,7 @@ Minha mente analítica se alimenta de dados, mas meu diferencial está em **trad
 ### 🔧 Visão Geral Visual da Stack:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,r,vba,cs,selenium,pandas,powershell,git,figma,jupyter,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,sql,r,vba,C#,selenium,pandas,powershell,git,figma,jupyter,powerbi" />
 </p>
 
 ## 🥋 Do Dojo para o Data Lake
