@@ -2,7 +2,7 @@
 
 ## 👋 Olá! Eu sou Gabriel Florêncio
 
-🎓 Futuro tecnólogo em Análise e Desenvolvimento de Sistemas  
+🎓 Análise e Desenvolvimento de Sistemas  
 📊 Analista de Dados em construção | Desenvolvedor RPA  
 🥋 Artista marcial (Muay Thai e Jiu-Jitsu) disciplinado  
 🎮 Criador de conteúdo no canal **GaabsGO** (games e humor)  
