@@ -27,11 +27,15 @@ Minha mente analítica se alimenta de dados, mas meu diferencial está em **trad
 
 ## ⚙️ Stack Técnica em Evolução
 
-- **Linguagens:** Python, SQL, R, VBA e C#
-- **Ferramentas:** Power BI, Jupyter, Looker Studio, Git  
+- **Linguagens:** Python, SQL, R, VBA, C#
+- **Ferramentas:** Power BI, Jupyter, Looker Studio, Git, Figma  
 - **Metodologias:** Storytelling de Dados, Design Thinking para Dashboards, ETL com Python
 
----
+### 🔧 Visão Geral Visual da Stack:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,r,vba,cs,selenium,pandas,powershell,git,figma,jupyter,powerbi" />
+</p>
 
 ## 🥋 Do Dojo para o Data Lake
 
