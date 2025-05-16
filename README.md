@@ -34,7 +34,7 @@ Minha mente analítica se alimenta de dados, mas meu diferencial está em **trad
 ### 🔧 Visão Geral Visual da Stack:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,cs,selenium,git,figma,jupyter,powerbi,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,r,cs,selenium,git,figma,jupyter,mongodb" />
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
