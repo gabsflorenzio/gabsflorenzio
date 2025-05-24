@@ -6,7 +6,7 @@
 📊 Analista de Dados em construção | Desenvolvedor RPA  
 🥋 Artista marcial de Muay Thai e Jiu-Jitsu  
 🎮 Criador de conteúdo no canal **GaabsGO** (Games e humor)  
-📍 Fortaleza – CE |BR
+📍 Fortaleza – CE | BR
 
 ---
 
