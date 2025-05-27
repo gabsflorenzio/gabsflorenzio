@@ -2,7 +2,7 @@
 
 ## 👋 Olá! Eu sou Gabriel Florêncio
 
-🎓 Análise e Desenvolvimento de Sistemas  
+🎓 Cientista de Dados  
 📊 Analista de Dados em construção | Desenvolvedor RPA  
 🥋 Artista marcial de Muay Thai e Jiu-Jitsu  
 🎮 Criador de conteúdo no canal **GaabsGO** (Games e humor)  
