@@ -3,9 +3,9 @@
 ## 👋 Olá! Eu sou Gabriel Florêncio
 
 🎓 Cientista de Dados  
-📊 Analista de Dados em construção | Desenvolvedor RPA  
-🥋 Artista marcial de Muay Thai e Jiu-Jitsu  
-🎮 Criador de conteúdo no canal **GaabsGO** (Games e humor)  
+📊 Cientista de Dados em construção | Desenvolvedor RPA  
+🥋 Artista marcial de Muay Thai, Jiu-Jitsu e Kung Fu  
+🎮 Criador de conteúdo no canal **É o Gaabs** (Games e humor)  
 📍 Fortaleza – CE | BR
 
 ---
